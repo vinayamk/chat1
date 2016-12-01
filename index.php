@@ -42,7 +42,7 @@ $jsonData = '{
         "id":"'.$sender.'"
     },
     "message":{
-    "text":"Pick a color:",
+    "text":"Select Menu:",
     "quick_replies":[
       {
         "content_type":"text",
